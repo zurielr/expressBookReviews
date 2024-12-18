@@ -2,63 +2,53 @@ let books = {
       1: {
             "author": "Chinua Achebe",
             "title": "Things Fall Apart",
-            "isbn": "9780385474542",
-            "reviews": {} 
-      },
+            "reviews": {}
+            },
       2: {
             "author": "Hans Christian Andersen",
             "title": "Fairy tales",
-            "isbn": "9780140449013",
-            "reviews": {} 
-      },
+            "reviews": {}
+            },
       3: {
             "author": "Dante Alighieri",
             "title": "The Divine Comedy",
-            "isbn": "9780142437223",
-            "reviews": {} 
-      },
+            "reviews": {}
+            },
       4: {
             "author": "Unknown",
             "title": "The Epic Of Gilgamesh",
-            "isbn": "9780140449198",
-            "reviews": {} 
-      },
+            "reviews": {}
+            },
       5: {
             "author": "Unknown",
             "title": "The Book Of Job",
-            "isbn": "9780140449242",
-            "reviews": {} 
-      },
+            "reviews": {}
+            },
       6: {
             "author": "Unknown",
             "title": "One Thousand and One Nights",
-            "isbn": "9780140449402",
-            "reviews": {} 
-      },
+            "reviews": {}
+            },
       7: {
             "author": "Unknown",
-            "title": "Nj\u00e1l's Saga",
-            "isbn": "9780140447699", 
-            "reviews": {} 
-      },
+            "title": "Njál's Saga",
+            "reviews": {}
+            },
       8: {
             "author": "Jane Austen",
             "title": "Pride and Prejudice",
-            "isbn": "9780141439518", 
-            "reviews": {} 
-      },
+            "reviews": {}
+            },
       9: {
-            "author": "Honor\u00e9 de Balzac",
-            "title": "Le P\u00e8re Goriot",
-            "isbn": "9780140449723",
-            "reviews": {} 
-      },
+            "author": "Honoré de Balzac",
+            "title": "Le Père Goriot",
+            "reviews": {}
+            },
       10: {
             "author": "Samuel Beckett",
             "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-            "isbn": "9780802144478",
-            "reviews": {} 
-      }
-}
-
-module.exports=books;
+            "reviews": {}
+            }
+      };
+      
+      module.exports = books;
